@@ -1,0 +1,27 @@
+.boton-verde {
+  background-color: #5CC263;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+
+.boton-verde:hover{
+  background-color: #19C124;
+  color: white;
+}
+
+.boton-rojo{
+  color: #EF1330;
+  border: 1px solid #EF1330;
+  padding: 12px 24px;
+  border-radius: 3px;
+  font-weight: lighter;
+}
+
+.boton-rojo:hover{
+  background-color: #EF1330;
+  color: white;
+  text-shadow: 1px 1px 2px white;
+}
